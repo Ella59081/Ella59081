@@ -61,8 +61,6 @@
   </div>
 </div>
 
-<! -- <p><em>Tip:</em> adjust percentages to reflect your comfort level; choose 3–6 skill groups.</p> -->
-
 ---
 
 <!-- FEATURED PROJECTS -->
@@ -101,8 +99,6 @@
   <!-- <li><strong>Intern / Freelance</strong> — Built UI components and launched 3 product features at COMPANY_OR_CLIENT (DATES)</li> -->
   <li><strong>Aptech Learning </strong> — Software engineering (ADSE) </li>
 </ul>
-
----
 
 <!-- CONTACT & RESUME -->
 <!--<h2 id="contact">Contact</h2>
