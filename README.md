@@ -9,10 +9,10 @@
 <div align="center">
 
   <!-- HERO -->
-  <h1 style="margin-bottom:6px">👋 Hi, I'm <strong>YOUR_NAME</strong></h1>
+  <h1 style="margin-bottom:6px">👋 Hi, I'm <strong>Eleanor Ebere</strong></h1>
   <p style="margin-top:0.25rem; margin-bottom:0.5rem; font-size:1.05rem">
-    Software Engineer • Product-minded • UI/UX focused  
-    I craft elegant interfaces and reliable systems — design-first thinking meets engineering.
+    Front-End developer • Database Administrator • Creative Designer
+    I craft elegant interfaces with flexible designs.
   </p>
 
   <!-- Quick badges: replace links -->
@@ -24,7 +24,7 @@
 
   <!-- Short pitch -->
   <p style="max-width:760px; text-align:left">
-    <strong>What I do:</strong> I build pixel-perfect interfaces and delightful user experiences, backed by robust frontend and backend engineering.
+    <strong>What I do:</strong> I build pixel-perfect interfaces and delightful user interfaces and experiences.
     I’m focused on components, accessibility, and beautiful micro-interactions that make software feel native.
   </p>
 </div>
@@ -59,14 +59,9 @@
   <div style="background:#e6e6e6; width:100%; border-radius:6px; overflow:hidden; margin-bottom:6px;">
     <div style="width:92%; background:#1a9a4b; padding:6px 8px; color:white; font-weight:600;">Figma — 92%</div>
   </div>
-
-  <p><strong>Backend & Tools</strong></p>
-  <div style="background:#e6e6e6; width:100%; border-radius:6px; overflow:hidden; margin-bottom:6px;">
-    <div style="width:74%; background:#6f42c1; padding:6px 8px; color:white; font-weight:600;">Node.js • Express — 74%</div>
-  </div>
 </div>
 
-<p><em>Tip:</em> adjust percentages to reflect your comfort level; choose 3–6 skill groups.</p>
+<! -- <p><em>Tip:</em> adjust percentages to reflect your comfort level; choose 3–6 skill groups.</p> -->
 
 ---
 
@@ -74,7 +69,7 @@
 <h2 id="projects">Featured Projects</h2>
 
 <!-- Project card (copy this block per project) -->
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:12px;">
+<!-- <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:12px;">
   <div style="border:1px solid #e6e6e6; padding:12px; border-radius:8px;">
     <h3 style="margin:4px 0">Project One — <small>UI Library</small></h3>
     <p style="margin:6px 0">A design-system and component library built with React + TypeScript, focused on accessibility and theming.</p>
@@ -98,57 +93,31 @@
 
 <p style="margin-top:8px;"><em>How to present a project:</em> short one-line summary, key tech, role, and links (repo + live). Prefer screenshots in the repo README.</p>
 
----
+--->
 
 <!-- EXPERIENCE / EDUCATION -->
 <h2 id="experience">Experience & Education</h2>
 <ul>
-  <li><strong>Intern / Freelance</strong> — Built UI components and launched 3 product features at COMPANY_OR_CLIENT (DATES)</li>
-  <li><strong>University / Bootcamp</strong> — Degree or course (PROGRAM NAME) — highlight relevant coursework: Data Structures, Web Dev, HCI.</li>
-</ul>
-
----
-
-<!-- OPEN SOURCE CONTRIBUTIONS -->
-<h2 id="oss">Open Source</h2>
-<p>If you contribute to OSS, briefly list notable contributions (PRs, issues, maintainership). Example:</p>
-<ul>
-  <li><strong>contributor</strong> — <a href="https://github.com/some/library">some/library</a> — Fixed bug in form validation (PR link)</li>
-  <li><strong>maintainer</strong> — <a href="https://github.com/your/repo">your/repo</a> — design system utilities</li>
+  <!-- <li><strong>Intern / Freelance</strong> — Built UI components and launched 3 product features at COMPANY_OR_CLIENT (DATES)</li> -->
+  <li><strong>Aptech Learning </strong> — Software engineering (ADSE) </li>
 </ul>
 
 ---
 
 <!-- CONTACT & RESUME -->
-<h2 id="contact">Contact</h2>
+<!--<h2 id="contact">Contact</h2>
 <p>
   <strong>Email:</strong> <a href="mailto:youremail@example.com">youremail@example.com</a><br/>
   <strong>Resume:</strong> <a href="YOUR_RESUME_LINK">Download PDF</a><br/>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">linkedin.com/in/YOUR_LINKEDIN</a>
-</p>
-
----
-
-<!-- GITHUB STATS (image badges) -->
-<h2 id="stats">GitHub At-a-Glance</h2>
-
-<!-- Replace USERNAME with your GitHub username where required -->
-<p>
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=highcontrast"/>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default"/>
-</p>
-
-<p>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact"/>
-</p>
+</p> -->
 
 ---
 
 <!-- FOOTER -->
 <p style="font-size:0.95rem">Thanks for visiting — if you'd like to see my portfolio or want help building anything, let's connect. ✨</p>
 
-<!-- small signature -->
-<p style="opacity:0.7; font-size:0.85rem">Built with ❤️ for design-driven software engineering</p><!--
+<!--
 **Ella59081/Ella59081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
