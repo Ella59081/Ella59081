@@ -64,7 +64,7 @@
 ---
 
 <!-- FEATURED PROJECTS -->
-<h2 id="projects">Featured Projects</h2>
+<!--<h2 id="projects">Featured Projects</h2>-->
 
 <!-- Project card (copy this block per project) -->
 <!-- <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:12px;">
