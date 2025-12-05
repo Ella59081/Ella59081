@@ -55,10 +55,10 @@
     <div style="width:88%; background:#0366d6; padding:6px 8px; color:white; font-weight:600;">React — 88%</div>
   </div>
 
-  <p><strong>Design & UI</strong></p>
+  <!-- <p><strong>Design & UI</strong></p>
   <div style="background:#e6e6e6; width:100%; border-radius:6px; overflow:hidden; margin-bottom:6px;">
-    <!-- <div style="width:92%; background:#1a9a4b; padding:6px 8px; color:white; font-weight:600;">Figma — 92%</div> -->
-  </div>
+    <div style="width:92%; background:#1a9a4b; padding:6px 8px; color:white; font-weight:600;">Figma — 92%</div>
+  </div> -->
 </div>
 
 ---
