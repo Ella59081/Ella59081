@@ -1,129 +1,140 @@
-## Hi there 👋
-
-<!--
-  GitHub Profile README template
-  Replace all ALL_CAPS placeholders with your info.
-  Works as README.md in your profile repo.
--->
-
-<div align="center">
-
-  <!-- HERO -->
-  <h1 style="margin-bottom:6px">👋 Hi, I'm <strong>Eleanor Ebere</strong></h1>
-  <p style="margin-top:0.25rem; margin-bottom:0.5rem; font-size:1.05rem">
-    Front-End developer • Database Administrator • Creative Designer
-    I craft elegant interfaces with flexible designs.
-  </p>
-
-  <!-- Quick badges: replace links -->
-  <p>
-    <img alt="Top languages" src="https://img.shields.io/badge/Top%20Langs-JavaScript-blue?style=for-the-badge&logo=javascript"/>
-    <img alt="Role" src="https://img.shields.io/badge/Role-Frontend%20%7C%20Full-stack-9cf?style=for-the-badge"/>
-    <img alt="Looking for work" src="https://img.shields.io/badge/Seeking-Opportunities-orange?style=for-the-badge"/>
-  </p>
-
-  <!-- Short pitch -->
-  <p style="max-width:760px; text-align:left">
-    <strong>What I do:</strong> I build pixel-perfect interfaces and delightful user interfaces and experiences.
-    I’m focused on components, accessibility, and beautiful micro-interactions that make software feel native.
-  </p>
-</div>
-
----
-
-<!-- ABOUT & PASSION -->
-<h2 id="about">About</h2>
-<p>
-  I started studying software engineering to combine my love of <strong>design</strong> and product thinking with engineering. My aim is to deliver creative solutions and beautiful interfaces that are also maintainable and well-tested.
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<ul>
-  <li><strong>Focus:</strong> UI / Design Systems / Frontend Architecture</li>
-  <li><strong>Favorite parts:</strong> Interaction design, animations, component libraries, performance tuning</li>
-  <li><strong>Values:</strong> Simplicity, accessibility, fast feedback loops</li>
-</ul>
+<h1 align="center">Hi 👋, I'm Eleanor</h1>
+
+<h3 align="center">Frontend Developer passionate about Design & User Experience 🎨</h3>
+
+<p align="center">
+  <a href="https://personalprofile.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-<!-- SKILLS with simple progress bars (works in GitHub README) -->
-<h2 id="skills">Skills</h2>
+## 🚀 About Me
 
-<div>
-  <!-- replace scores 0-100 -->
-  <p><strong>Frontend</strong></p>
-  <div style="background:#e6e6e6; width:100%; border-radius:6px; overflow:hidden; margin-bottom:6px;">
-    <div style="width:88%; background:#0366d6; padding:6px 8px; color:white; font-weight:600;">React — 88%</div>
-  </div>
-
-  <!-- <p><strong>Design & UI</strong></p>
-  <div style="background:#e6e6e6; width:100%; border-radius:6px; overflow:hidden; margin-bottom:6px;">
-    <div style="width:92%; background:#1a9a4b; padding:6px 8px; color:white; font-weight:600;">Figma — 92%</div>
-  </div> -->
-</div>
+✨ Frontend Developer passionate about **Design & Clean UI**  
+🎨 I love transforming ideas into beautiful interfaces  
+💡 Inspired by creativity, minimalism, and user experience  
+🌱 Currently improving my frontend skills and building projects  
+💼 Open to internship / junior frontend roles  
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<!--<h2 id="projects">Featured Projects</h2>-->
+## 🌐 Portfolio
 
-<!-- Project card (copy this block per project) -->
-<!-- <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:12px;">
-  <div style="border:1px solid #e6e6e6; padding:12px; border-radius:8px;">
-    <h3 style="margin:4px 0">Project One — <small>UI Library</small></h3>
-    <p style="margin:6px 0">A design-system and component library built with React + TypeScript, focused on accessibility and theming.</p>
-    <p style="margin:6px 0"><strong>Tech:</strong> React • TypeScript • Storybook • Tailwind</p>
-    <p style="margin:8px 0">
-      <a href="YOUR_PROJECT_ONE_GITHUB_URL">Repository</a> •
-      <a href="YOUR_PROJECT_ONE_LIVE_URL">Live demo</a>
-    </p>
-  </div>
+🔗 https://personalprofile.onrender.com
 
-  <div style="border:1px solid #e6e6e6; padding:12px; border-radius:8px;">
-    <h3 style="margin:4px 0">Project Two — <small>Interactive App</small></h3>
-    <p style="margin:6px 0">A small single-page app demonstrating complex interactions and micro-animations.</p>
-    <p style="margin:6px 0"><strong>Tech:</strong> React • Framer Motion • CSS Grid</p>
-    <p style="margin:8px 0">
-      <a href="YOUR_PROJECT_TWO_GITHUB_URL">Repository</a> •
-      <a href="YOUR_PROJECT_TWO_LIVE_URL">Live demo</a>
-    </p>
-  </div>
-</div>
 
-<p style="margin-top:8px;"><em>How to present a project:</em> short one-line summary, key tech, role, and links (repo + live). Prefer screenshots in the repo README.</p>
+---
 
---->
+## 🧑‍💻 Languages & Frameworks
 
-<!-- EXPERIENCE / EDUCATION -->
-<h2 id="experience">Experience & Education</h2>
-<ul>
-  <!-- <li><strong>Intern / Freelance</strong> — Built UI components and launched 3 product features at COMPANY_OR_CLIENT (DATES)</li> -->
-  <li><strong>Aptech Learning </strong> — Software engineering (ADSE) </li>
-</ul>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+</p>
 
-<!-- CONTACT & RESUME -->
-<!--<h2 id="contact">Contact</h2>
+---
+
+# 🔧 Tools & Technologies
+
 <p>
-  <strong>Email:</strong> <a href="mailto:youremail@example.com">youremail@example.com</a><br/>
-  <strong>Resume:</strong> <a href="YOUR_RESUME_LINK">Download PDF</a><br/>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">linkedin.com/in/YOUR_LINKEDIN</a>
-</p> -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+- Git  
+- GitHub  
+- VS Code  
 
 ---
 
-<!-- FOOTER -->
-<p style="font-size:0.95rem">Thanks for visiting — if you'd like to see my portfolio or want help building anything, let's connect. ✨</p>
+## 🎨 What Inspires Me
 
-<!--
-**Ella59081/Ella59081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Clean UI
+- Beautiful animations
+- Responsive design
+- Modern layouts
+- User-centered design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### ● Resume Builder 
+
+ A responsive resume builder where users can choose templates, input their personal details, professional summary, work experience, education, and skills, and download a job-ready resume. 
+Technologies used: React, CSS. 
+Github link: https://github.com/Ella59081/ResumeBuilder 
+Project Demo: https://resumebuilderweb.onrender.com
+
+### ● Notion website clone
+
+A static clone of Notion website homepage showcasing my knowledge of  html structure, css layouts and responsiveness.
+Technologies used: HTML, CSS. 
+Github Link: https://github.com/Ella59081/Notion-clone
+Project demo: https://notionclone.onrender.com 
+
+### ● Breadwave website clone
+ A static clone of Breadwave website homepage showcasing my knowledge of  html structure, css layouts and responsiveness.
+Technologies used: HTML, CSS. 
+Github Link: https://github.com/Ella59081/Nvidia-clone
+Project demo: https://breadwave-clone.onrender.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ella59081&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ella59081&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Flutter
+- Spring Boot
+- Spring Security
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/Ella59081">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/eleanor-ebere-829719358">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:elea123nor@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+🎨 I love designing beautiful user interfaces  
+💡 I believe great design makes great experiences  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
