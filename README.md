@@ -34,7 +34,7 @@
 
 ## 🧑‍💻 Languages & Frameworks
 
-<p align="left" style={{display: "flex", flexDirection: "column"}}>
+<p align="left"}>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
@@ -74,20 +74,25 @@
 Technologies used: React, CSS. 
 
 -Github link: https://github.com/Ella59081/ResumeBuilder 
+
 -Project Demo: https://resumebuilderweb.onrender.com
 
 ### ● Notion website clone
 
 A static clone of Notion website homepage showcasing my knowledge of  html structure, css layouts and responsiveness.
 Technologies used: HTML, CSS. 
-Github Link: https://github.com/Ella59081/Notion-clone
-Project demo: https://notionclone.onrender.com 
+
+-Github Link: https://github.com/Ella59081/Notion-clone
+
+-Project demo: https://notionclone.onrender.com 
 
 ### ● Breadwave website clone
  A static clone of Breadwave website homepage showcasing my knowledge of  html structure, css layouts and responsiveness.
 Technologies used: HTML, CSS. 
-Github Link: https://github.com/Ella59081/Nvidia-clone
-Project demo: https://breadwave-clone.onrender.com
+
+-Github Link: https://github.com/Ella59081/Nvidia-clone
+
+-Project demo: https://breadwave-clone.onrender.com
 
 ---
 
