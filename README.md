@@ -34,13 +34,13 @@
 
 ## 🧑‍💻 Languages & Frameworks
 
-<span align="left">
+<p align="left" style={{display: "flex", flexDirection: "column"}}>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-</span>
+</p>
 
 ---
 
@@ -72,8 +72,9 @@
 
  A responsive resume builder where users can choose templates, input their personal details, professional summary, work experience, education, and skills, and download a job-ready resume. 
 Technologies used: React, CSS. 
-Github link: https://github.com/Ella59081/ResumeBuilder 
-Project Demo: https://resumebuilderweb.onrender.com
+
+-Github link: https://github.com/Ella59081/ResumeBuilder 
+-Project Demo: https://resumebuilderweb.onrender.com
 
 ### ● Notion website clone
 
