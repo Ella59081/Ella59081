@@ -40,7 +40,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> -->
-  <img src="https://skillicons.dev/icons?i=html5-original.svg,css3-original.svg,tailwindcss,javascript,typescript,react" />
+  <img src="https://skillicons.dev/icons?i=html5,css3,tailwindcss,javascript,typescript,react" />
 </p>
 
 ---
